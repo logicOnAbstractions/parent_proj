@@ -1,0 +1,4 @@
+about
+---------
+
+this project uses submodule as well as a proper python packaging structure to manage dependancies of both the parent & any submodule. following  `this guys <https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html>`_
