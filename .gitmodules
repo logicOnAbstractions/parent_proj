@@ -1,0 +1,3 @@
+[submodule "pysetuptools"]
+	path = pysetuptools
+	url = https://github.com/logicOnAbstractions/pysetuptools.git
